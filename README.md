@@ -3,8 +3,8 @@
 # **Introduction**
 
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="Threebe logo" src="https://raw.githubusercontent.com/Ernest1338/test_threebe1/master/ThreebeLogoCircle.png" />
-<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Threebe</b> is a Libre (FOSS - Free and Open Source) tool for displaying a Hexdump<br />
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Threebe</b> is a Libre (FOSS - Free and Open Source) tool for displaying a Hexdump /<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/ Disassembly / Strings / Information from/of a (binary) file<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and (at this time) is fully written in Python3.
 <br /><br />
